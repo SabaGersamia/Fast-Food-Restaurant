@@ -1,0 +1,59 @@
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\Burger Bar.dll.config
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\Burger Bar.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\Burger Bar.pdb
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\csc.exe
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\csc.exe.config
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\csc.rsp
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\csi.exe
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\csi.exe.config
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\csi.rsp
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.Managed.Core.targets
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.AppContext.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Collections.Immutable.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Console.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Globalization.Calendars.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.IO.Compression.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.IO.FileSystem.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Net.Http.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Net.Sockets.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Reflection.Metadata.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.ValueTuple.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Xml.XmlDocument.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Xml.XPath.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\vbc.exe
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\vbc.exe.config
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\vbc.rsp
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\VBCSCompiler.exe
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\roslyn\VBCSCompiler.exe.config
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\obj\Debug\Burger Bar.csproj.AssemblyReference.cache
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\obj\Debug\Burger Bar.csproj.CoreCompileInputs.cache
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\obj\Debug\Burger Bar.csproj.Up2Date
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\obj\Debug\Burger Bar.dll
+G:\SG\Project\.NET Web\Online Restaurant\Burger Bar\Burger Bar\obj\Debug\Burger Bar.pdb
